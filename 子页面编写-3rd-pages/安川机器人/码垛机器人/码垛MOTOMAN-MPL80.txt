@@ -1,0 +1,4 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+# 码垛机器人——MOTOMAN-MPL80
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/120808-25bd50b77622a12c.png)
+# 【抱歉，相关资料正在完善....】

@@ -1,0 +1,19 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+# 码垛机器人--KR 120 R3200 PA
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/120808-90d2ced99fe78bfc.png)
+    　　
+  
+## 更快、更高、更远。因其结构精致和坚固，此款机器人完美地配合堆垛作业的要求，能把120kg的重物毫无问题的堆垛到很高的高度，其作用范围达3200mm。
+### ■ 技术参数
+**负    荷**  120kg   
+**附加负荷**    50kg
+**最大作用范围**  3195mm  
+**重复精确度**   ±0.06mm
+**轴    数**  5   
+**重    量**  1075kg
+**控制系统**    KR C4   
+**安装位置**    地面
+### ■ 应用领域
+包装及拣选   其它操作    装货盘
+
+

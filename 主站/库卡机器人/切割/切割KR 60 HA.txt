@@ -1,0 +1,35 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+# 切割机器人--KR 60 HA
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/120808-edd2d7db6bea4bd2.png)
+    　　
+  
+#### 高精度系列机器人是专为高精度作业设计的，尤其适合激光应用领域或部件测量领域。
+###■ 机器人本体主要性能参数
+**机器人型号** Robot model   KR 60HA KR 60 L45 HA    KR 60 L30 HA
+**轴数** Controlled axes  6 axes  6 axes  6 axes
+**最大运动半径** 
+Max. reach  2033mm  2230mm  2429mm
+**有效运动范围** Stroke   1510mm  1670mm  1821mm
+**最大负载** 
+Max. load capacity at wrist 60kg    45kg    30kg
+**运动范围**
+Motion range    J1   ±185°   ±185°   ±185°
+    J2   ﹣135°/+35°  ﹣135°/+35°  ﹣135°/+35°
+    J3   ﹣120°/+158°     ﹣120°/+158°     ﹣120°/+158°
+    J4   ±350°   ±350°   ±350°
+    J5   ±119°   ±119°   ±119°
+    J6   ±350°   ±350°   ±350°
+**最大运动速度**
+Max. speed  J1  128°/s  128°/s  140°/s
+    J2  102°/s  102°/s  126°/s
+    J3  128°/s  128°/s  140°/s
+    J4  260°/s  260°/s  260°/s
+    J5  245°/s  245°/s  245°/s
+    J6  322°/s  322°/s  322°/s
+**重复精度** Repeatability  ＜±0.05mm    ＜±0.05mm    ＜±0.05mm
+**机械本体重量** Mechanical unit mass 665kg   671kg   679kg
+**安装位置**
+Mounting position   正装       倒装     正装       倒装     正装       倒装 
+**电源容量**Connection  14.9KVA 14.9KVA 14.9KVA
+
+

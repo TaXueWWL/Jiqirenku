@@ -1,0 +1,17 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+# 码垛机器人--KR 240 R3200 PA
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/120808-033f11cf04330f69.png)
+## 尽管负荷高，但仍有最好加速值。为240kg的负载能力而设计，此款机器人以最高的加速值而出类拔萃。它的完美的设计确保最好的加速值——即使在最高负载时。
+### ■ 技术参数
+**负    荷**  240kg   
+**附加负荷**    50kg
+**最大作用范围**  3195mm  
+**重复精确度**   ±0.06mm
+**轴    数**  5   
+**重    量**  1103kg
+**控制系统**    KR C4   
+**安装位置**    地面
+### ■ 应用领域
+包装及拣选   其它操作    装货盘
+
+

@@ -1,0 +1,32 @@
+<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
+# 切割机器人--KR 30 HA
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/120808-15cf66003a224ecd.png)
+    　　
+  
+#### 高精度系列机器人是专为高精度作业设计的，尤其适合激光应用领域或部件测量领域。
+### ■ 机器人本体主要性能参数
+**机器人型号** Robot model   KR 30 HA
+**轴数** Controlled axes  6 axes
+**最大运动半径** Max. reach   2033mm
+**有效运动范围** Stroke   1510mm
+**最大负载** Max. load capacity at wrist    30kg
+**运动范围**
+Motion range    J1   ±185°
+    J2   ﹣135°/+35°
+    J3   ﹣120°/+158°
+    J4   ±350°
+    J5   ±119°
+    J6   ±350°
+**最大运动速度**
+Max. speed  J1  140°/s
+    J2  126°/s
+    J3  140°/s
+    J4  260°/s
+    J5  245°/s
+    J6  322°/s
+**重复精度** Repeatability  ＜±0.05mm
+**机械本体重量** Mechanical unit mass 665kg
+**安装位置****Mounting position   正装       倒装 
+**电源容量**Connection  14.9KVA
+
+
